@@ -4,4 +4,4 @@ wrapper.py ——> use to create the data in the required format for the program
 Part a——> Solve dual objective of SVM using CVX package in MATLAB.
 Part b——> Calculate the require values and the accuracy.
 Part c——> Solve SVM problems using gaussian kernel.
-Part d——> Solve dual objective using linear and gaussian kernel using libsvm.
+Part d——> Solve dual objective using linear and gaussian kernel  using libsvm.
